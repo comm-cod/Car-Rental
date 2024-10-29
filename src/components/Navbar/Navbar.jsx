@@ -4,7 +4,7 @@ import ResponsiveMenu from './ResponsiveMenu.jsx'
 import { HiMenuAlt1, HiMenuAlt3 } from 'react-icons/hi';
 
 
- const Navlinks = [
+export const Navlinks = [
   {
     id: '1',
     name: 'HOME',
